@@ -1,4 +1,4 @@
-project_name := love2d_game
+project_name := love2d-pong
 love := /Applications/love.app/Contents/MacOS/love
 
 run: build launch

@@ -1,6 +1,6 @@
-# LÖVE Template
+# LÖVE Pong
 
-A template for creating games with [LÖVE](https://love2d.org/).
+A simple Pong game made with [LÖVE](https://love2d.org/).
 
 ## Requirements
 
@@ -21,10 +21,3 @@ A template for creating games with [LÖVE](https://love2d.org/).
 Simply run `make` to build the game and launch it.
 
 See the `Makefile` for more commands.
-
-## Resources
-
-- [LÖVE wiki](https://love2d.org/wiki/Main_Page)
-- [Awesome LÖVE](https://github.com/love2d-community/awesome-love2d)
-- [Lua manual](https://lua.org/manual/5.4/manual.html)
-- [Lua Cheet Sheet](https://devhints.io/lua)
